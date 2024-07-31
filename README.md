@@ -1,1 +1,15 @@
-# LunarDarshan
+# LunarDarshan - an AR simulation of the lunar surface for education and reasearch
+
+## Features:
+1. Interactive Learning Tool: By creating an AR application, we provide an immersive and interactive way to explore the lunar surface, enhancing educational experiences.
+2. Accessible Data Visualization: Transforming DEM data into an AR experience makes high-resolution lunar data accessible and engaging to a wider audience, including researchers, students, and space enthusiasts.
+3. Enhanced Research Capabilities: Scientists and researchers can use this tool to visualize and analyze the lunar terrain more effectively, aiding in mission planning and geological studies.
+
+## Mockup photos of the prototype: 
+<img src="lunar1.jpg">
+<img src="lunar2.jpg">
+<img src="lunar3.jpg">
+
+## Workflow: 
+<img src="flow.jpg">
+
