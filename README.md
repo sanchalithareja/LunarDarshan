@@ -6,10 +6,10 @@
 3. Enhanced Research Capabilities: Scientists and researchers can use this tool to visualize and analyze the lunar terrain more effectively, aiding in mission planning and geological studies.
 
 ## Mockup photos of the prototype: 
-<img src="lunar1.jpg">
+<img src="images/Screenshot%202024-07-31%20232942.png">
 <img src="lunar2.jpg">
 <img src="lunar3.jpg">
 
 ## Workflow: 
-<img src="flow.jpg">
+<img src="images/flow.jpg">
 
